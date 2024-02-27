@@ -4,10 +4,10 @@
 2. Paper exploring the combination of text information and collaborative signals in recommendation systems:
     - Relevant: Designing a method, for example, an adapter network structure, to adapt the representation of text information to recommendation tasks.
     - Not relevant: Papers that do not involve textual information and only discuss ID-based recommendation methods.
-3. Paper addressing the correction of illusionary issues in large models:
+3. Paper addressing the hallucination issues in large models:
     - Relevant: Designing a method to reduce factual errors in LLM responses.
-    - Not relevant: Papers that do not involve LLM or do not discuss illusionary issues in LLM.
-4. Papers improving the efficiency of large model inference
+    - Not relevant: Papers that do not involve LLM or do not discuss hallucination issues in LLM.
+4. Papers improving the inference efficiency of large language models.
 5. Papers related to knowledge-editing techniques:
     - Relevant: Designing a method to update knowledge stored in LLM or injecting external knowledge into LLM.
     - Not relevant: Papers that do not involve LLM or do not address knowledge updates in LLM.
