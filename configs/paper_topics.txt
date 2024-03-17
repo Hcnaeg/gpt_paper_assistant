@@ -8,9 +8,13 @@
     - Relevant: Designing a method to reduce factual errors in LLM responses.
     - Not relevant: Papers that do not involve LLM or do not discuss hallucination issues in LLM.
 4. Papers improving the inference efficiency of Large Language Models.
-5. Papers related to knowledge-editing techniques:
+5. Papers related to knowledge-editing method, which explores approaches to update or modify LLM's knowledge:
     - Relevant: Designing a method to update knowledge stored in LLM or injecting external knowledge into LLM.
     - Not relevant: Papers that do not involve LLM or do not address knowledge updates in LLM.
-6. Papers combining Natural Language Processing (NLP) and Graph Neural Network (GNN) technologies:
+6. Papers combining Natural Language Processing (NLP) and Graph Neural Network (GNN):
     - Relevant: Designing a method to inject semantic information into GNN, such as initializing GNN nodes with embeddings produced by language models; discussing related work on Text Attribute Graphs (TAG).
-    - Not relevant: Papers that do not involve NLP techniques or do not deal with graph-format data.
+    - Not relevant: Papers that do not involve NLP or do not deal with graph-format data.
+
+In suggesting papers to your friend, remember that he enjoys papers on natural language processing, and combinations of NLP and recommendation systems.
+ Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
+ He does not want to read papers that are about primarily applications of methods to specific domains.
